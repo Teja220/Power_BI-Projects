@@ -1,7 +1,7 @@
 # Welcome to My Power BI Projects Repository!
 
 ## About Me
-I am a passionate data enthusiast currently focusing on enhancing my data visualization and analysis skills with Power BI. I enjoy diving deep into datasets to extract insights that can help in decision-making processes. This repository showcases my journey into the world of data analysis with a few key projects I've worked on.
+I am a passionate data enthusiast with a strong focus on data visualization and analysis using Power BI and Tableau. I have developed a solid foundation in various visualization techniques, allowing me to dive deep into complex datasets and extract actionable insights that drive decision-making. This repository showcases my journey into the world of data analysis, featuring key projects where I applied advanced visualization methods to uncover trends, patterns, and solutions.
 
 ## Projects
 
@@ -10,7 +10,7 @@ I am a passionate data enthusiast currently focusing on enhancing my data visual
 - **Key Insights**:
   - Accident hotspots
   - Time and weather factors
-  - Recommendations for accident prevention
+  - Map Grid for Accident Analysis
 - **Tools Used**: Power BI
 - **Power Query Techniques**:
   - **Data Filtering**: Applied filters to clean the dataset by removing irrelevant data points (e.g., outliers, null values) and focusing on specific accident causes and locations.
@@ -23,6 +23,7 @@ I am a passionate data enthusiast currently focusing on enhancing my data visual
   - Top-performing products
   - Sales trends by region and season
   - Customer purchase patterns
+  - Map analysis by revenue
 - **Tools Used**: Power BI
 - **Power Query Techniques**:
   - **Data Filtering**: Used Power Query to filter sales transactions based on date, region, and product categories to focus on specific market segments.
@@ -32,16 +33,12 @@ I am a passionate data enthusiast currently focusing on enhancing my data visual
 ### 3. IPL Dataset Analysis (Ongoing)
 - **Description**: This project involves analyzing IPL cricket data to explore player performance, team dynamics, and match outcomes. Visualizations will provide insights into trends across different seasons, player statistics, and match predictions.
 - **Tools Used**: Power BI
-- **Power Query Techniques**:
-  - **Data Transformation**: Used Power Query to shape and clean the IPL data, including filtering out incomplete matches and irrelevant columns to focus on player and team performance.
-- **Data Model Techniques**:
-  - **Managing Relationships**: Designed relationships between match data, player statistics, and team performance tables, which allow for in-depth analysis of player contributions to team success.
 
 ## What’s Next?
 I am constantly learning and working on new datasets. Currently, I’m delving deeper into machine learning, improving my skills with Python and scikit-learn, and looking forward to building more advanced data projects.
 
 ## Connect With Me
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: [https://www.linkedin.com/in/Teja220]
+
 
 Feel free to explore the projects and provide any feedback or suggestions!
