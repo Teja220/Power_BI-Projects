@@ -1,4 +1,4 @@
-# Welcome to My Power BI Projects Repository!
+# Welcome to My Visualization Projects Repository!
 
 ## About Me
 I am a passionate data enthusiast with a strong focus on data visualization and analysis using Power BI and Tableau. I have developed a solid foundation in various visualization techniques, allowing me to dive deep into complex datasets and extract actionable insights that drive decision-making. This repository showcases my journey into the world of data analysis, featuring key projects where I applied advanced visualization methods to uncover trends, patterns, and solutions.
