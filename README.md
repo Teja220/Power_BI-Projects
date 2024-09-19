@@ -32,7 +32,7 @@ I am a passionate data enthusiast with a strong focus on data visualization and 
 
 ### 3. IPL Dataset Analysis (Ongoing)
 - **Description**: This project involves analyzing IPL cricket data to explore player performance, team dynamics, and match outcomes. Visualizations will provide insights into trends across different seasons, player statistics, and match predictions.
-- **Tools Used**: Power BI
+- **Tools Using**: Power BI
 
 ## What’s Next?
 I am constantly learning and working on new datasets. Currently, I’m delving deeper into machine learning, improving my skills with Python and scikit-learn, and looking forward to building more advanced data projects.
